@@ -1,0 +1,6 @@
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/out/build/x64-Debug/CMakeFiles/heat_simulation.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/out/build/x64-Debug/CMakeFiles/install/local.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/out/build/x64-Debug/CMakeFiles/install.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/out/build/x64-Debug/CMakeFiles/list_install_components.dir

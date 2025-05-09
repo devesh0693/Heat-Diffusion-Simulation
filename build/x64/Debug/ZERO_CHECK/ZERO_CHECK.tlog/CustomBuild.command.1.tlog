@@ -1,0 +1,10 @@
+^D:\DEVESH R\P\OPENMP\HEAT_DIFFUSION_SIMULATION\BUILD\CMAKEFILES\A219C17B0BDCD25026261568E96DEE57\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Devesh R/P/Openmp/heat_diffusion_simulation" "-BD:/Devesh R/P/Openmp/heat_diffusion_simulation/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Devesh R/P/Openmp/heat_diffusion_simulation/build/HeatDiffusionSimulation.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Devesh R/P/Openmp/heat_diffusion_simulation/CMakeLists.txt
+  main.cpp
+D:\Devesh R\P\Openmp\heat_diffusion_simulation\src\main.cpp(68,17): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+D:\Devesh R\P\Openmp\heat_diffusion_simulation\src\main.cpp(79,17): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+  heat_simulation.vcxproj -> D:\Devesh R\P\Openmp\heat_diffusion_simulation\build\Debug\heat_simulation.exe

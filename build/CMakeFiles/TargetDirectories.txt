@@ -1,0 +1,4 @@
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/build/CMakeFiles/heat_simulation.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/build/CMakeFiles/INSTALL.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/build/CMakeFiles/ALL_BUILD.dir
+D:/Devesh R/P/Openmp/heat_diffusion_simulation/build/CMakeFiles/ZERO_CHECK.dir
