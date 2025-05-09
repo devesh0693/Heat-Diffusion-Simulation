@@ -1,8 +1,39 @@
-<<<<<<< HEAD
-# heat_diffusion_simulation
+# Heat Diffusion Simulation
 
-This repository was initialized by the GitHub Automation Tool.
-=======
-# Heat-diffusion-simulation
-Heat diffusion simulation (using C++ , Open MP , Cmake )
->>>>>>> 6354823bf1d9d37b9547b5b2b3dea01abe953ffb
+This repository contains a C++ project for simulating heat diffusion using parallel processing capabilities provided by OpenMP. The project is configured with CMake for building and linking.
+
+## Features
+
+- Utilizes OpenMP for parallelization to enhance performance.
+- Modular and easy-to-understand C++ codebase.
+- Configurable for both debug and release builds.
+
+## Requirements
+
+To build and run the project, you need the following:
+
+- **CMake** (minimum version 3.10)
+- **C++ Compiler** with C++17 support
+- **OpenMP** (compatible with your compiler)
+
+## Building the Project
+
+1. **Clone the repository:**
+   git clone <repository-url>
+   cd heat_diffusion_simulation
+2. ***Create a build directory:***
+mkdir build && cd build
+3. ***Configure the build with CMake:***
+ cmake ..
+4. ***Build the project:***
+cmake --build .
+Running the Simulation
+After building, the executable heat_simulation will be located in the bin directory (if installed) or the build directory. Run it with:
+./heat_simulation
+Customization
+To enable or disable OpenMP parallelization, ensure that your system supports OpenMP, as specified in the CMakeLists.txt file.
+
+You can add compiler flags for optimization or debugging by modifying the CMakeLists.txt file.
+
+License
+This project is licensed under the MIT License.
